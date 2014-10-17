@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vif:home|Door43 (vif)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vif|d43-vif repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vif/archive/master.zip|d43-vif.zip]]
+
+**Recent Changes**
+{{changes>ns = vif}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vif|Ethnologue data]]
+
